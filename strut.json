@@ -1,0 +1,9 @@
+{
+  "name": "sqlite",
+  "version": "0.1.0",
+  "entry": "sqlite.h",
+  "description": "Official SQLite package for Strut.",
+  "license": "MIT",
+  "repository": "https://github.com/strut-packages/sqlite",
+  "dependencies": {}
+}
